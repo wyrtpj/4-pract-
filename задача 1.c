@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(){
-    
+int main()
+{
     int red_balls[10];
     
       for(int i=0; i<10; i++)
